@@ -1,0 +1,6 @@
+{
+  "name": "API-VORA",
+  "description": "AI-Powered Adaptive API Security Gateway",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
